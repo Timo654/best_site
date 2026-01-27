@@ -4,25 +4,25 @@ webgl games
 
 
 
-\[Cute as a Bunny](cuteasabunny)
+[Cute as a Bunny](cuteasabunny)
 
-\[The Root of Evil](therootofevil)
+[The Root of Evil](therootofevil)
 
-\[Fate of the Deliveryman](fateofthedeliveryman)
+[Fate of the Deliveryman](fateofthedeliveryman)
 
-\[EleBall alpha](eleballalpha)
+[EleBall alpha](eleballalpha)
 
-\[Nuclurum](nuclurum)
+[Nuclurum](nuclurum)
 
-\[Ancestor Rain](ancestorrain)
+[Ancestor Rain](ancestorrain)
 
-\[Nixie of the Lake](nixieofthelake)
+[Nixie of the Lake](nixieofthelake)
 
-\[Pego](pego)
+[Pego](pego)
 
-\[Slipping Away](slippingaway)
+[Slipping Away](slippingaway)
 
-\[itk](itk)
+[itk](itk)
 
 
 
